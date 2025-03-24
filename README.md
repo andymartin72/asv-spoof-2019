@@ -12,14 +12,14 @@ https://datashare.is.ed.ac.uk/handle/10283/3336
 ## Implementation
 
 Walkthrough of the implementation is given in demo.ipynb
-#### Feature extraction technique 
+### Feature extraction technique 
 
 Constant Q Cepstral Coefficients (CQCC) feature extraction technique is used. 
-#### Neural network architecture
+### Neural network architecture
 
 A deep residual neural network (Deep ResNet) is implemented.
 
-#### Evaluation
+### Evaluation
 
 Equal Error Rate (EER) is used for evaluation. EER is the error rate at which the False Acceptance Rate (FAR) and False Rejection Rate (FRR) are equal.
 
